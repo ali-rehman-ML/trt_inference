@@ -53,7 +53,9 @@ See the `examples/` directory for more examples.
 - CUDA and cuDNN installed
 - See `requirements.txt` for Python dependencies
 
+## NVIDIA TensorRT Acknowledgment
 
+This project utilizes NVIDIA TensorRT, a deep learning inference library developed by NVIDIA. TensorRT is used for optimizing and deploying trained neural network models on NVIDIA GPUs. For more information about TensorRT, including licensing and usage terms, please visit the [official NVIDIA TensorRT documentation](https://developer.nvidia.com/tensorrt).
 
 ## License
 
